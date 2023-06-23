@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\bin\Debug\net7.0\задача 21.exe
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\bin\Debug\net7.0\задача 21.deps.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\bin\Debug\net7.0\задача 21.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\bin\Debug\net7.0\задача 21.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\bin\Debug\net7.0\задача 21.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\refint\задача 21.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\задача 21.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Семинар 3 дз\задача 21\obj\Debug\net7.0\ref\задача 21.dll
